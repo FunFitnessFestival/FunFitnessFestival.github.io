@@ -75,7 +75,7 @@ h2 {
 #blog-title, 
 #contact-title {
     height:250px;
-    background:transparent url('../img/about-bg.jpg') 0 0 no-repeat;
+    background:transparent url('../img/G0035212 (1).png') 0 0 no-repeat;
     border-bottom:5px solid #ecee4b;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
@@ -288,10 +288,10 @@ a#pull {
     background: transparent url('../img/yuck.jpg') 10% 150px no-repeat;
 }
 .js-background-2 {
-    background: transparent url('../img/about-bg.jpg') 10% 150px no-repeat;
+    background: transparent url('../img/G0035212 (1).png') 10% 150px no-repeat;
 }
 .js-background-3 {
-    background: transparent url('../img/about-bg.jpg') top center repeat;
+    background: transparent url('../img/G0035212 (1).png') top center repeat;
 }
  
 /* ============== Responsive Media Queries ==================== */
