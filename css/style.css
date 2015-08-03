@@ -188,12 +188,12 @@ h2 {
     transition: height 0.3s;
 }
 .cbp-af-header .cbp-af-inner {
-    width: 100%;
+    width: 807px;
     max-width: 1140px;
     margin: 0 auto;
     padding: 0;
     position:relative;
-    height:100%;
+    height:220px;
 }
 .cbp-af-header h1 {
 	background:transparent url('http://www.spaceanswers.com/wp-content/uploads/2012/11/Astronaut-temp-Moon.jpg') 0 0 no-repeat;
