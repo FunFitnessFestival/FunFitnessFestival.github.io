@@ -179,7 +179,7 @@ h2 {
     position: fixed;
     top: 0;
     left: 0;
-    width: 807px;
+    width: 100%;
     background:transparent url('http://img4.wikia.nocookie.net/__cb20120730200249/ipod/images/6/65/Earth_and_Moon.jpg') 0 0 no-repeat;
     z-index: 10000;
     height: 220px;
