@@ -74,7 +74,7 @@ h2 {
 #about-title, 
 #blog-title, 
 #contact-title {
-    height:250px;
+    height:400px;
     background:transparent url('../img/G0035212 (1).png') 0 0 no-repeat;
     border-bottom:5px solid #ecee4b;
     -webkit-box-sizing: content-box;
