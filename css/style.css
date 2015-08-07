@@ -61,7 +61,7 @@ h2 {
 }
 .wraptitle {
     position:relative;
-    height:350px;
+    height:500px;
 }
 .anchor:before {
     content:"";
