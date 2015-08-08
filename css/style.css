@@ -60,7 +60,7 @@ h2 {
     color:#ecee4b;
 }
 .wraptitle {
-    position:relative;
+    position:200px;
     height:500px;
 }
 .anchor:before {
