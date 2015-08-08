@@ -79,7 +79,7 @@ h2 {
     border-bottom:5px solid #ecee4b;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 #about-title {
    
