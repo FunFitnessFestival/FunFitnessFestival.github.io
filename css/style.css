@@ -36,7 +36,7 @@ h2 {
     text-align:center;
     margin:0px auto;
     padding-top:100px;
-    height:595px;
+    height:600px;
 }
 .wrap {
     width:1140px;
@@ -75,7 +75,7 @@ h2 {
 #blog-title, 
 #contact-title {
     height:600px;
-    background:transparent url('../img/G0035212 (1).png') 0 0 no-repeat;
+    background-color: #00ff00;
     border-bottom:5px solid #ecee4b;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
