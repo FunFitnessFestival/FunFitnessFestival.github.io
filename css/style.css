@@ -36,7 +36,7 @@ h2 {
     text-align:center;
     margin:0px auto;
     padding-top:100px;
-    height:650px;
+    height:600px;
 }
 .wrap {
     width:1140px;
@@ -74,7 +74,7 @@ h2 {
 #about-title, 
 #blog-title, 
 #contact-title {
-    height:650px;
+    height:600px;
     background:transparent url(http://entropymag.org/wp-content/uploads/2014/10/outer-space-wallpaper-pictures.jpg) 0 0 no-repeat;
     border-bottom:5px solid #ecee4b;
     -webkit-box-sizing: content-box;
