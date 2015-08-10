@@ -38,6 +38,16 @@ h2 {
     padding-top:100px;
     height:600px;
 }
+h3{
+	    color: #42413e;
+    font-family: "Gotham SSm A","Gotham SSm B",Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 1.7rem;
+    line-height: 2.2rem;
+    text-align: center;
+}
 .wrap {
     width:1140px;
 	
