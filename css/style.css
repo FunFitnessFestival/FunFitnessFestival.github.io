@@ -86,7 +86,7 @@ h2 {
  background:##00ff00;
 }
 #blog-title {
-    background:#ecee4b;
+    background:#c22842;
 }
 #contact-title {
     background-color:#ecee4b;
@@ -288,7 +288,7 @@ a#pull {
     background: transparent url('../img/G0035212 (1).png') 100% 200px no-repeat;
 }
 .js-background-2 {
-    background-color: #5e7676;
+    background: transparent url('../img/yuck2.jpg') 10% 150px no-repeat;
 }
 .js-background-3 {
     background: transparent url('../img/G0035212 (1).png') top center repeat;
