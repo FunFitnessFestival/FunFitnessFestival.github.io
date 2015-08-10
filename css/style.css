@@ -58,6 +58,10 @@ h4{
     line-height: 2.2rem;
     text-align: left;
 }
+h5{
+	color:#eceee4b;
+	font-family:"Verdana";
+}
 .wrap {
     width:1140px;
 	
