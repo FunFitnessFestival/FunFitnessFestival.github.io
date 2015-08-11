@@ -84,7 +84,7 @@ h5{
 }
 .circle{
     border-radius:100%;
-    border:10px solid #5F7677;
+    border:10px solid #C32843;
 }
 .orange {
     color:#ecee4b;
@@ -106,7 +106,7 @@ h5{
 #contact-title {
     height:602px;
     background:transparent url(http://entropymag.org/wp-content/uploads/2014/10/outer-space-wallpaper-pictures.jpg) 0 0 no-repeat;
-    border-bottom:5px solid #ecee4b;
+    border-bottom:5px solid #C32843;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
     box-sizing: border-box;
@@ -116,10 +116,10 @@ h5{
  background:##00ff00;
 }
 #blog-title {
-    background:#c22842;
+    background:#C32843;
 }
 #contact-title {
-    background-color:#5F7677;
+    background-color:#C32843;
 }
 #about, 
 #blog, 
