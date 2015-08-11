@@ -327,9 +327,9 @@ a#pull {
 }
  
 /* ============== Responsive Media Queries ==================== */
-@media screen and (max-width: 1139px) {
+@media screen and (max-width: 1980px) {
     .wrap {
-        width:100%;padding:0 20px;
+        width:100%;padding:0 80px;
     }
     .cbp-af-header .cbp-af-inner {
         width: 100%;
