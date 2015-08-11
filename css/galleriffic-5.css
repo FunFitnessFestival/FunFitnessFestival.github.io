@@ -159,6 +159,8 @@ ul.thumbs li {
 a.thumb {
 	padding: 1px;
 	display: block;
+	width: 80px;
+	height: 80px;
 }
 a.thumb:focus {
 	outline: none;
