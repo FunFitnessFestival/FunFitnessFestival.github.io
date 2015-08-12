@@ -4,6 +4,8 @@ body{
 }
 a{
 	color: #C32843;
+	font-size: 20px;
+	font-family: "Maven Pro";
 }
 h2 {
 	color: #C32843;
