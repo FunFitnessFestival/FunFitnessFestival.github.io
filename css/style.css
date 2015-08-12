@@ -136,7 +136,7 @@ h11 {
 #blog-title, 
 #contact-title {
     height:602px;
-    background:transparent url('../img/FFFback.jpg') width:1663px; 0 0 no-repeat;
+    background:transparent url('../img/FFFback.jpg')  0 0 no-repeat;
     border-bottom:5px solid #C32843;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
