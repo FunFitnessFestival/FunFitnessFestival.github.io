@@ -80,6 +80,16 @@ h9{
     text-align: left;
 	
 }
+h10{
+	    color: #C32843;
+    font-family: "Maven Pro";
+    font-weight: 300;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 1.7rem;
+    line-height: 2.5rem;
+    text-align: left;
+}
 .wrap {
     width:1140px;
 	
