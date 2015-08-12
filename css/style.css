@@ -4,7 +4,7 @@
 body {
     font:20px/30px 'Open Sans', Verdana, sans-serif;
     
-    min-width: 2000px;
+    max-width:1663px;
 }
 .clearfix:after {
     content: ".";
