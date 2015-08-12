@@ -192,8 +192,11 @@ h11 {
     width:90%;
 }
 .blog-item .title {
+    font-size:20px;
     font-weight:600;
-    color:#be4b97;
+    color: #C32843;
+    font-family: "Maven Pro";
+ 
 }
 .blog-item .info {
     font-weight:400;
