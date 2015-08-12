@@ -138,6 +138,7 @@ h9{
 #about {
 	margin: 0px auto 0;
 	overflow:hidden;
+	height: 700px;
 }
 #blog, 
 #contact {
