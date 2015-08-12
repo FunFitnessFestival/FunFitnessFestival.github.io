@@ -3,7 +3,7 @@
 /* ============== Reset css styles ==================== */
 body {
     font:20px/30px 'Open Sans', Verdana, sans-serif;
-    max-width:1663;
+    overflow-x: hidden;
 }
 .clearfix:after {
     content: ".";
